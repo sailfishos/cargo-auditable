@@ -1,0 +1,3 @@
+[submodule "cargo-packaging"]
+	path = cargo-auditable
+	url = git@github.com:sailfishos-mirror/cargo-auditable.git
